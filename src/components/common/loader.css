@@ -1,0 +1,22 @@
+.Process {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.center-screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+
+
+
+/*.loader {*/
+/*    width: 560px;*/
+/*    height: 90px;*/
+/*}*/
